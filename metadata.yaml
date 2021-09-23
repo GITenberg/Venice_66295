@@ -5,6 +5,9 @@ contributor:
     agent_name: Barratt, Reginald
     gutenberg_agent_id: '53735'
     url: http://www.gutenberg.org/2009/agents/53735
+covers:
+- cover_type: archival
+  image_path: 66295-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Henderson, May Sturge
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '53733'
     url: http://www.gutenberg.org/2009/agents/53733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66295#Venice
 gutenberg_issued: '2021-09-13'
 identifiers:
   gutenberg: '66295'
