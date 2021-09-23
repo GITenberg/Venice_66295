@@ -1,0 +1,27 @@
+_repo: Venice_66295
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Barratt, Reginald
+    gutenberg_agent_id: '53735'
+    url: http://www.gutenberg.org/2009/agents/53735
+creator:
+  authors:
+  - agent_name: Henderson, May Sturge
+    gutenberg_agent_id: '53734'
+    url: http://www.gutenberg.org/2009/agents/53734
+  - agent_name: Sélincourt, Beryl de
+    gutenberg_agent_id: '53733'
+    url: http://www.gutenberg.org/2009/agents/53733
+description: ''
+gutenberg_issued: '2021-09-13'
+identifiers:
+  gutenberg: '66295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Venice
+url: http://www.gutenberg.org/ebooks/66295
